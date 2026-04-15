@@ -46,7 +46,7 @@ pip install -qU requests chromadb langchain langchain-chroma langchain-huggingfa
 
 2. Open the notebook:
 
-- `hw3_vector_embeddings_starter_2224541-2.ipynb`
+- `vector_embeddings_starter.ipynb`
 
 3. Set your API keys in the `main()` function:
 
